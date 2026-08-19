@@ -29,7 +29,7 @@ Hi! I'm a WPF developer focused on building robust automation platforms. I enjoy
 
 ## Connect with me
 
-- 📧 jenifajoylene333@email.com  
+- 📧 jenifajoylene333@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jenifa-joylene-67a279415/)
 
 ---
